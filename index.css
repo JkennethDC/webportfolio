@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    background-color: #F9E2AF;
+    color: white;
+}
+
+nav img {
+    max-height: 40px !important;
+}
+
+body {
+    background-color: #151515;
+}
+
+#name {
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 84px;
+    color: #F9E2AF;
+}
+
+#landing h3 {
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+
+#landing p {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+
+#base {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+    padding: 8px 24px 8px 24px;
+    border-radius: 2px 0px 0px 0px;
+    background: #F9E2AF;
+}
+
+#text-title {
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #F9E2AF;
+}
+
+#projects p {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;   
+}
+
+#tools-title {
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 24px;
+    color: black;
+    padding: 8px 24px 8px 24px;
+    background: #F9E2AF;
+}
+
+#contact-header {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #F9E2AF;
+}
+
+#contact form label {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.38px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+#contact form input {
+    background: #FFFFFF;
+    border: 1px solid #F9E2AF;
+    border-radius: 0 !important;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    text-align: left;
+    color: black;
+}
+
+#form-btn {
+    padding: 8px 24px 8px 24px;
+    gap: 8px;
+    border-radius: 30px;
+    background: #F9E2AF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 24px;
+    text-align: center;
+    color: black;    
+}
+
+#contact p {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
